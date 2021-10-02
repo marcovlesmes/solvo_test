@@ -1,1 +1,3 @@
-# solvo_test
+# Test for Solvo
+
+Execute the index.php file to run the app
